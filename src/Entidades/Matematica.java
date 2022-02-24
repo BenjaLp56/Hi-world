@@ -13,6 +13,7 @@ public class Matematica {
    
     private double Num1;
     private double Num2;
+    private int atributo;
 
     public Matematica() {
     }
